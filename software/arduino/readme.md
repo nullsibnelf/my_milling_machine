@@ -1,25 +1,24 @@
 folder for arduino codes
 
-<br>
-<i>HC-05_config.ino:</i>
 
+&nbsp;
+<i>HC-05_config.ino:</i>
 This Sketch helps to configure the bluetooth module. You have to change the name, password and baudrate.    
 Instruction how to do this can be found here: http://www.instructables.com/id/Modify-The-HC-05-Bluetooth-Module-Defaults-Using-A/
 
 
-<br>
+&nbsp;
 <i>ESC_test.ino:</i>
-
 This Sketch was to test the ESC to run a brushless motor controlled by the arduino. Just for evaluation. Not needed.
 
 
-<br>
+&nbsp;
 <i>GRBL:</i>
 My-milling-machine runs with GRBL firmware. It's a open source arduino based software that controlls the whole machine.    
 Download: https://github.com/gnea/grbl/releases
 
 
-<br>
+&nbsp;
 <i>GRBL ESC-patch:</i>
 My-milling-machine uses a bruschless motor instead of an high revolution cnc spindle. GRBL doesn't support this by now. But there is a fork working, made by <a href="https://github.com/pablozg" target="new">Pablozg</a>. Thanks for that!     
 Download: https://github.com/gnea/grbl/pull/163/commits/012c7ed89ec174e6f918a2663bce6ed2ce5e7117
