@@ -1,8 +1,8 @@
 folder for parts you need to build my_milling_machine
-
-
+ 
+ 
 **Machine parts:**
-
+ 
 Part | Price | Link | Tested
 --- | --- | --- | ---
 Arduino Uno clone | 3,41 € | [Link](https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-For-Arduino-No-Cable-p-964163.html) | checked
@@ -22,11 +22,11 @@ wiring cables | tbd | n/a |
 PE cables | tbd | n/a |
 CNC-shield for Arduino | self made | tbd | 
 Reset / emergency-Stop switch | tbd | n/a |
-
-
-
+ 
+ 
+ 
 **Frame parts:**
-
+ 
 Part | Price | Link 
 --- | --- | --- 
 Profil 20x40 B-Typ Nut 6 | ~10,00€ |	[Link](http://www.motedis.com/shop/Nutprofil/20-B-Typ-Nut-6/Aluprofil-20x40-B-Typ-Nut-6::158.html)
@@ -38,11 +38,11 @@ Profilverbinder Hülsen |	~15,00€ |	[Link](http://www.motedis.com/shop/Nutprof
 Profilverbinder Nutsteine |	~7,00€ |	[Link](http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M5-096555::4229.html)
 Profilverbinder Schrauben |	~3,00€ |	[Link](http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schraube-Automatikverbinder-DIN-912-M5x35-N6-I-Typ::4839.html)
 Versand Motedis |	~12,00€ |	
-
-
-
+ 
+ 
+ 
 **Commodities:**
-
+ 
 Part | Price | Link | Tested
 --- | --- | --- | ---
 FR4 CU | 11,96 € | [Link](https://www.banggood.com/10Pcs-1_5MM-CCL-1015-FR4-Glass-Fiber-Board-PCB-Circuit-Board-p-962233.html) |
@@ -54,4 +54,8 @@ Drill 1mm (10x) | 3,63 € | [Link](https://www.banggood.com/10pcs-1_0mm-Mini-PC
 
 
 **Printed parts:**
+ 
 tbd. All blue parts in the 3D model. 
+ 
+  
+   
