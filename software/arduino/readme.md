@@ -19,7 +19,6 @@ My-milling-machine runs with GRBL firmware. It's a open source arduino based sof
 Download: https://github.com/gnea/grbl/releases
 
 
-
 <br>
 <i>GRBL ESC-patch:</i>
 My-milling-machine uses a bruschless motor instead of an high revolution cnc spindle. GRBL doesn't support this by now. But there is a fork working, made by <a href="https://github.com/pablozg" target="new">Pablozg</a>. Thanks for that!     
