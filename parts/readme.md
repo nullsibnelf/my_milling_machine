@@ -45,11 +45,11 @@ Versand Motedis |	~12,00€ |
 
 Part | Price | Link | Tested
 --- | --- | --- | ---
-FR4 CU | 11,96 € | [Link](https://www.banggood.com/10Pcs-1_5MM-CCL-1015-FR4-Glass-Fiber-Board-PCB-Circuit-Board-p-962233.html){:target="_blank"} |
+FR4 CU | 11,96 € | [Link](https://www.banggood.com/10Pcs-1_5MM-CCL-1015-FR4-Glass-Fiber-Board-PCB-Circuit-Board-p-962233.html target="_blank") |
 Wooden support | tbd | n/a | 
-Contour router 0.1mm (5x) | 3,70 € | [Link](https://www.banggood.com/5pcs-0_1mm-15-Degree-Titanium-Coated-Carbide-Flat-Bottom-PCB-Engraving-Bit-CNC-Router-Tool-p-1034790.html){:target="_blank"} |
-End Mill Cutter mix (10x) | 3,63 € | [Link](https://www.banggood.com/10pcs-11_522_53mm-Carbide-End-Mill-Cutter-PCB-Drill-Bits-p-1090388.html){:target="_blank"} | 
-Drill 1mm (10x) | 3,63 € | [Link](https://www.banggood.com/10pcs-1_0mm-Mini-PCB-Drill-Bits-Tungsten-Steel-For-CNC-Print-Circuit-Board-p-995198.html){:target="_blank"} |
+Contour router 0.1mm (5x) | 3,70 € | [Link](https://www.banggood.com/5pcs-0_1mm-15-Degree-Titanium-Coated-Carbide-Flat-Bottom-PCB-Engraving-Bit-CNC-Router-Tool-p-1034790.html target="_blank") |
+End Mill Cutter mix (10x) | 3,63 € | [Link](https://www.banggood.com/10pcs-11_522_53mm-Carbide-End-Mill-Cutter-PCB-Drill-Bits-p-1090388.html target="_blank") | 
+Drill 1mm (10x) | 3,63 € | [Link](https://www.banggood.com/10pcs-1_0mm-Mini-PCB-Drill-Bits-Tungsten-Steel-For-CNC-Print-Circuit-Board-p-995198.html target="_blank") |
 
 
 
