@@ -5,7 +5,7 @@ folder for parts you need to build my_milling_machine
 
 Part | Price | Link | Tested
 --- | --- | --- | ---
-Arduino Uno clone | 3,41 € | [Link](https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-For-Arduino-No-Cable-p-964163.html){:target="_blank"} | checked
+Arduino Uno clone | 3,41 € | <a "https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-For-Arduino-No-Cable-p-964163.html target="_blank">Link</a> | checked
 HC-05 bluetooth module | 3,66 € | [Link](https://www.banggood.com/de/3Pcs-HC-05-Wireless-Bluetooth-Serial-Transceiver-Module-For-Arduino-p-1011725.html){:target="_blank"} | checked
 Stepper controller (3x) | 32,85 € | [Link](http://www.watterott.com/de/SilentStepStick-TMC2130){:target="_blank"} | checked
 ESC for spindle | 15,66 € | [Link](https://www.amazon.de/gp/product/B07661T5N2/ref=oh_aui_detailpage_o00_s02?ie=UTF8&psc=1){:target="_blank"} | checked
