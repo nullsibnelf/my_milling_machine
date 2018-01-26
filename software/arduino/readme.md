@@ -20,5 +20,5 @@ Download: https://github.com/gnea/grbl/releases
 
 &nbsp;
 <i>GRBL ESC-patch:</i>
-My-milling-machine uses a bruschless motor instead of an high revolution cnc spindle. GRBL doesn't support this by now. But there is a fork working, made by <a href="https://github.com/pablozg" target="new">Pablozg</a>. Thanks for that!     
+My-milling-machine uses a bruschless motor instead of an high revolution cnc spindle. GRBL doesn't support this by now. But there is a fork working, made by https://github.com/pablozg. Thanks for that!     
 Download: https://github.com/gnea/grbl/pull/163/commits/012c7ed89ec174e6f918a2663bce6ed2ce5e7117
