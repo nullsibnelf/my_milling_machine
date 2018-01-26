@@ -1,6 +1,8 @@
 folder for parts you need to build my_milling_machine
 
 
+**Machine parts:**
+
 Part | Price | Link | Tested
 --- | --- | --- | ---
 Arduino Uno clone | 3,41 € | [Link](https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-For-Arduino-No-Cable-p-964163.html) | checked
@@ -14,4 +16,42 @@ Trapez-Gewindestange  mit Lager und Mitnehmer (3x) | 38,94 € | [Link](https://
 Gleitlager (8x) | 12,00 € | [Link](https://www.amazon.de/gp/product/B06WD7M4ZJ/ref=ox_sc_act_title_3?smid=A2LZ0UUKEAXYKL&psc=1) |
 Power supply 100W 12V & 5V | 10,63 € | [Link](https://www.banggood.com/5V12V24V-Power-Supply-Box-For-large-Game-Consoles-p-1120203.html) | 
 Nema17 stepper motor short (3x) | 30,99 € | [Link](https://www.amazon.de/Beauty-Star-Schrittmotor-Haltemomentf%C3%BCr-Halterung/dp/B07784Y8ML/ref=pd_rhf_gw_p_img_3?_encoding=UTF8&psc=1) |
-Switch (3x) | 0,59 € | [Link](https://www.amazon.de/gp/product/B00U8MPFLO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) |
+End switch (3x) | 0,59 € | [Link](https://www.amazon.de/gp/product/B00U8MPFLO/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) |
+Supply cable 230V (or equivalent) | tbd | n/a |
+wiring cables | tbd | n/a |
+PE cables | tbd | n/a |
+CNC-shield for Arduino | self made | tbd | 
+Reset / emergency-Stop switch | tbd | n/a |
+
+
+
+**Frame parts:**
+
+Part | Price | Link 
+--- | --- | --- 
+Profil 20x40 B-Typ Nut 6 | ~10,00€ |	[Link](https://www.motedis.com/)
+Führungsstange 8mm Alu  ~1,50€ |	[Link](https://www.motedis.com/)
+Frästisch-Bett 6mm Alu (180x120) |	~5,00€ |	[Link](https://www.motedis.com/)
+Energiekette Glieder |	~5,00€ |	[Link](https://www.motedis.com/)
+Energiekette Endstücke |	~3,00€ |	[Link](https://www.motedis.com/)
+Profilverbinder Hülsen |	~15,00€ |	[Link](https://www.motedis.com/)
+Profilverbinder Nutsteine |	~7,00€ |	[Link](https://www.motedis.com/)
+Profilverbinder Schrauben |	~3,00€ |	[Link](https://www.motedis.com/)
+Versand Motedis |	~12,00€ |	
+
+
+
+**Commodities:**
+
+Part | Price | Link | Tested
+--- | --- | --- | ---
+FR4 CU | 11,96 € | [Link](https://www.banggood.com/10Pcs-1_5MM-CCL-1015-FR4-Glass-Fiber-Board-PCB-Circuit-Board-p-962233.html) |
+Wooden support | tbd | n/a | 
+Contour router 0.1mm (5x) | 3,70 € | [Link](https://www.banggood.com/5pcs-0_1mm-15-Degree-Titanium-Coated-Carbide-Flat-Bottom-PCB-Engraving-Bit-CNC-Router-Tool-p-1034790.html) |
+End Mill Cutter mix (10x) | 3,63 € | [Link](https://www.banggood.com/10pcs-11_522_53mm-Carbide-End-Mill-Cutter-PCB-Drill-Bits-p-1090388.html) | 
+Drill 1mm (10x) | 3,63 € | [Link](https://www.banggood.com/10pcs-1_0mm-Mini-PCB-Drill-Bits-Tungsten-Steel-For-CNC-Print-Circuit-Board-p-995198.html) |
+
+
+
+**Printed parts:**
+tbd. All blue parts in the 3D model. 
