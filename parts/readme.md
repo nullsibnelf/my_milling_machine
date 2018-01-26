@@ -29,14 +29,14 @@ Reset / emergency-Stop switch | tbd | n/a |
 
 Part | Price | Link 
 --- | --- | --- 
-Profil 20x40 B-Typ Nut 6 | ~10,00€ |	[Link](https://www.motedis.com/)
-Führungsstange 8mm Alu  ~1,50€ |	[Link](https://www.motedis.com/)
-Frästisch-Bett 6mm Alu (180x120) |	~5,00€ |	[Link](https://www.motedis.com/)
-Energiekette Glieder |	~5,00€ |	[Link](https://www.motedis.com/)
-Energiekette Endstücke |	~3,00€ |	[Link](https://www.motedis.com/)
-Profilverbinder Hülsen |	~15,00€ |	[Link](https://www.motedis.com/)
-Profilverbinder Nutsteine |	~7,00€ |	[Link](https://www.motedis.com/)
-Profilverbinder Schrauben |	~3,00€ |	[Link](https://www.motedis.com/)
+Profil 20x40 B-Typ Nut 6 | ~10,00€ |	[Link](http://www.motedis.com/shop/Nutprofil/20-B-Typ-Nut-6/Aluprofil-20x40-B-Typ-Nut-6::158.html)
+Führungsstange 8mm Alu | ~7,50€ |	[Link](http://www.motedis.com/shop/Dynamik-Lineareinheiten/Praezisionswellen/Alu-Praezisionswellen-Zuschnitt/Praezisionswelle-Aluminium-%D88mm::3501.html)
+Frästisch-Bett 6mm Alu (180x120) |	~5,00€ |	[Link](http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html)
+Energiekette Glieder |	~5,00€ |	[Link](http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-einzelne-Glieder::2948.html)
+Energiekette Endstücke |	~3,00€ |	[Link](http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-Anschlusselemente-1-Paar::2946.html)
+Profilverbinder Hülsen |	~15,00€ |	[Link](http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schneidhuelse-fuer-Automatik-Verbinder-I-Typ-Nut-6-099GS061::4838.html)
+Profilverbinder Nutsteine |	~7,00€ |	[Link](http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M5-096555::4229.html)
+Profilverbinder Schrauben |	~3,00€ |	[Link](http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schraube-Automatikverbinder-DIN-912-M5x35-N6-I-Typ::4839.html)
 Versand Motedis |	~12,00€ |	
 
 
