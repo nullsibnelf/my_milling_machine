@@ -16,6 +16,27 @@ folder for the files related to the customized arduino CNC-shield
 <img src="layout.png">
 
 
-new | grbl | pin | | pin | grbl | new
----|---|---|---|---|---|---
+<p>&nbsp;</p>
+new | grbl | pin |   | pin |  grbl  | new
+--- | ---- | --- |---| ---  |  ----  | ---
+    |      |   |     | SCL |
+    |      |   |     | SDA |
+    |      |   |     | AREF |
+    |      |   |     | GND |
+    |      |   |     | Dig_13 |
+    |      |   |     | Dig_12 |
+    |      |   |     | Dig_11 |
+    |      |   |     | Dig_10 |
+    |      |   |     | Dig_09 |
+    |      |   |     | Dig_08 | Bluetooth module 5V
+    |      |   |     |        |
+    |      |   |     | Dig_07 | Z Direction
+    |      |   |     | Dig_06 | Z Step
+    |      |   |     | Dig_05 | Y Direction
+    |      |   |     | Dig_04 | Y Step
+    |      |   |     | Dig_03 | X Direction
+    |      |   |     | Dig_02 | X Step
+    |      |   |     | TxD | Bluetooth module Rx
+    |      |   |     | RxD | Bluetooth module Tx
+
 
