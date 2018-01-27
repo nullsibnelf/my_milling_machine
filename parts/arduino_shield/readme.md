@@ -17,8 +17,8 @@ folder for the files related to the customized arduino CNC-shield
 
 
 <p>&nbsp;</p>
-new | grbl | pin |   | pin |  grbl  | new
---- | ---- | --- |---| ---  |  ----  | ---
+new | grbl | pin | &nbsp; | pin |  grbl  | new
+--- | --- | --- | --- | --- | --- | ---
     |      |   |     | SCL |
     |      |   |     | SDA |
     |      |   |     | AREF |
