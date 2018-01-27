@@ -96,6 +96,149 @@ folder for the files related to the customized arduino CNC-shield
         <td> Limit Z </td>
         <td> Limit switch Z </td>
     </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_11 </td>
+        <td> Variable Spindle PWM </td>
+        <td> ESC PWM </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_10 </td>
+        <td> Limit Y </td>
+        <td> Limit switch Y </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_09 </td>
+        <td> Limit X </td>
+        <td> Limit switch X </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_08 </td>
+        <td> Stepper enable </td>
+        <td> Bluetooth module 5V </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_07 </td>
+        <td> Z Direction </td>
+        <td> Z Direction </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_06 </td>
+        <td> Y Direction </td>
+        <td> Z Step </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_05 </td>
+        <td> X Direction </td>
+        <td> Y Direction </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_04 </td>
+        <td> Z Step </td>
+        <td> Y Step </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_03 </td>
+        <td> Y Step </td>
+        <td> X Direction </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_02 </td>
+        <td> X Step </td>
+        <td> X Step </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> TxD </td>
+        <td>  </td>
+        <td> Bluetooth module Rx </td>
+    </tr>
+    <tr>
+        <td>  </td>
+        <td>  </td>
+        <td>  </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> RxD </td>
+        <td>  </td>
+        <td> Bluetooth module Tx </td>
+    </tr>
 </table>
         
 
