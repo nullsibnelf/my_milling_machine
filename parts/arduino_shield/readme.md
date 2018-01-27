@@ -7,17 +7,17 @@ folder for the files related to the customized arduino CNC-shield
 - For better connectivity I added a HC-05 bluetooth-module. Baudrate stays at 115.200.    
 - To avoid trouble while flashing (because of the HC-05 is parallel), the bluetooth module is powered by an Arduino-Port.
 - The shield has 2 supply inputs: 5V for logic and the Arduino-board, and 12V for the steppers and the ESC/brushless motor.    
-
-
 <p>&nbsp;</p>
+
+
 <img src="schematic.png">
-
-
 <p>&nbsp;</p>
+
+
 <img src="layout.png">
-
-
 <p>&nbsp;</p>
+
+
 <table>
     <tr>
         <td> new </td>
@@ -241,7 +241,8 @@ folder for the files related to the customized arduino CNC-shield
         <td> Bluetooth module Tx </td>
     </tr>
 </table>
-        
+<p>&nbsp;</p>
+
 
 Further changes:<br>
 - dust absorbtion
