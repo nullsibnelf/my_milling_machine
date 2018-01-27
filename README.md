@@ -1,8 +1,8 @@
 # my_milling_machine
 open source hardware - PCB-milling and engraving machine
 
-<p>&nbsp;</p>
-  <center><img src="logo.png"></center>
+
+<img src="logo.png">
 
 
 Goal:
