@@ -99,7 +99,7 @@ folder for the files related to the customized arduino CNC-shield
     <tr>
         <td>  </td>
         <td>  </td>
-        <td>  </td>
+        <td> Reset </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -110,7 +110,7 @@ folder for the files related to the customized arduino CNC-shield
     <tr>
         <td>  </td>
         <td>  </td>
-        <td>  </td>
+        <td> 3V3 </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -121,7 +121,7 @@ folder for the files related to the customized arduino CNC-shield
     <tr>
         <td>  </td>
         <td>  </td>
-        <td>  </td>
+        <td> 5V </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -132,7 +132,7 @@ folder for the files related to the customized arduino CNC-shield
     <tr>
         <td>  </td>
         <td>  </td>
-        <td>  </td>
+        <td> GND </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -143,7 +143,7 @@ folder for the files related to the customized arduino CNC-shield
     <tr>
         <td>  </td>
         <td>  </td>
-        <td>  </td>
+        <td> GND </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -153,7 +153,7 @@ folder for the files related to the customized arduino CNC-shield
     </tr>
     <tr>
         <td>  </td>
-        <td>  </td>
+        <td> VIN </td>
         <td>  </td>
         <td>   </td>
         <td>   </td>
@@ -175,8 +175,8 @@ folder for the files related to the customized arduino CNC-shield
     </tr>
     <tr>
         <td>  </td>
-        <td>  </td>
-        <td>  </td>
+        <td> Reset / Abort </td>
+        <td> Analog_0 </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -186,8 +186,8 @@ folder for the files related to the customized arduino CNC-shield
     </tr>
     <tr>
         <td>  </td>
-        <td>  </td>
-        <td>  </td>
+        <td> Feed Hold </td>
+        <td> Analog_1 </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -197,8 +197,8 @@ folder for the files related to the customized arduino CNC-shield
     </tr>
     <tr>
         <td>  </td>
-        <td>  </td>
-        <td>  </td>
+        <td> Cycle Start / Resume </td>
+        <td> Analog_2 </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -208,8 +208,8 @@ folder for the files related to the customized arduino CNC-shield
     </tr>
     <tr>
         <td>  </td>
-        <td>  </td>
-        <td>  </td>
+        <td> Coolant Enable </td>
+        <td> Analog_3 </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -219,8 +219,8 @@ folder for the files related to the customized arduino CNC-shield
     </tr>
     <tr>
         <td>  </td>
-        <td>  </td>
-        <td>  </td>
+        <td> reserved </td>
+        <td> Analog_4 </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
@@ -230,8 +230,8 @@ folder for the files related to the customized arduino CNC-shield
     </tr>
     <tr>
         <td>  </td>
-        <td>  </td>
-        <td>  </td>
+        <td> Probe </td>
+        <td> Analog_5 </td>
         <td>   </td>
         <td>   </td>
         <td>   </td>
