@@ -17,26 +17,85 @@ folder for the files related to the customized arduino CNC-shield
 
 
 <p>&nbsp;</p>
-new | grbl | pin | &nbsp; | pin |  grbl  | new
---- | --- | --- | --- | --- | --- | ---
-    |      |   |     | SCL |
-    |      |   |     | SDA |
-    |      |   |     | AREF |
-    |      |   |     | GND |
-    |      |   |     | Dig_13 |
-    |      |   |     | Dig_12 |
-    |      |   |     | Dig_11 |
-    |      |   |     | Dig_10 |
-    |      |   |     | Dig_09 |
-    |      |   |     | Dig_08 | Bluetooth module 5V
-    |      |   |     |        |
-    |      |   |     | Dig_07 | Z Direction
-    |      |   |     | Dig_06 | Z Step
-    |      |   |     | Dig_05 | Y Direction
-    |      |   |     | Dig_04 | Y Step
-    |      |   |     | Dig_03 | X Direction
-    |      |   |     | Dig_02 | X Step
-    |      |   |     | TxD | Bluetooth module Rx
-    |      |   |     | RxD | Bluetooth module Tx
-
+<table>
+    <tr>
+        <td> new </td>
+        <td> grbl </td>
+        <td> pin </td>
+        <td> port </td>
+        <td> &nbsp </td>
+        <td> port </td>
+        <td> pin </td>
+        <td> grbl </td>
+        <td> new </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> SCL </td>
+        <td>   </td>
+        <td>   </td>
+    </tr>
+    <tr>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> SDA </td>
+        <td>   </td>
+        <td>   </td>
+    </tr>
+    <tr>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> AREF </td>
+        <td>   </td>
+        <td>   </td>
+    </tr>
+    <tr>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> GND </td>
+        <td>   </td>
+        <td>   </td>
+    </tr>
+    <tr>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_13 </td>
+        <td> Spindle direction  </td>
+        <td>   </td>
+    </tr>
+    <tr>
+        <td> 5V </td>
+        <td> 5V </td>
+        <td> 5V </td>
+        <td>   </td>
+        <td>   </td>
+        <td>   </td>
+        <td> Dig_12 </td>
+        <td> Limit Z </td>
+        <td> Limit switch Z </td>
+    </tr>
+</table>
+        
 
