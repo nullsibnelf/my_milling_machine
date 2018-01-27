@@ -15,3 +15,7 @@ folder for the files related to the customized arduino CNC-shield
 <p>&nbsp;</p>
 <img src="layout.png">
 
+
+new | grbl | pin | | pin | grbl | new
+---|---|---|---|---|---|---
+
