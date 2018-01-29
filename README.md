@@ -29,3 +29,7 @@ Further Development:
 - camera for optical calibration
 - dust extraction
 - emergency shutdown
+
+<p>&nbsp;</p>
+
+2018/01/28: Total costs by now -> ~270€
