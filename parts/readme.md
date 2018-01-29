@@ -30,15 +30,18 @@ Reset / emergency-Stop switch | tbd | n/a |
 
 Part | Price | Link 
 --- | --- | --- 
-Profile 20x40 B-Typ Nut 6 | ~10,00€ |	<a href="http://www.motedis.com/shop/Nutprofil/20-B-Typ-Nut-6/Aluprofil-20x40-B-Typ-Nut-6::158.html" target="_blank">Link</a>
-Precision guide bar 8mm Alu (6x) | ~7,50€ |	<a href="http://www.motedis.com/shop/Dynamik-Lineareinheiten/Praezisionswellen/Alu-Praezisionswellen-Zuschnitt/Praezisionswelle-Aluminium-%D88mm::3501.html" target="_blank">Link</a>
-Machine table 6mm Alu (180x120) |	~5,00€ |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
-Energy chain links (10x) |	~5,00€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-einzelne-Glieder::2948.html" target="_blank">Link</a>
-Energy chain tail (2x) |	~3,00€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-Anschlusselemente-1-Paar::2946.html" target="_blank">Link</a>
-Profile joints |	~15,00€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schneidhuelse-fuer-Automatik-Verbinder-I-Typ-Nut-6-099GS061::4838.html" target="_blank">Link</a>
-T-shaped sliding blocks |	~7,00€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M5-096555::4229.html" target="_blank">Link</a>
-Profile screws |	~3,00€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schraube-Automatikverbinder-DIN-912-M5x35-N6-I-Typ::4839.html" target="_blank">Link</a>
-shipping |	~12,00€ |	
+Profile 20x40 B-Typ Nut 6 | 10,89€ |	<a href="http://www.motedis.com/shop/Nutprofil/20-B-Typ-Nut-6/Aluprofil-20x40-B-Typ-Nut-6::158.html" target="_blank">Link</a>
+Precision guide bar 8mm Alu (6x + rest) | 15,23€ |	<a href="http://www.motedis.com/shop/Dynamik-Lineareinheiten/Praezisionswellen/Alu-Praezisionswellen-Zuschnitt/Praezisionswelle-Aluminium-%D88mm::3501.html" target="_blank">Link</a>
+Machine table 6mm Alu (200x120) |	6,56€ |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
+Spindle mounting plate 6mm Alu (80x64) |	1,39€ |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
+Energy chain links (12x) |	4,86€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-einzelne-Glieder::2948.html" target="_blank">Link</a>
+Energy chain tail (2x) |	2,69€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-Anschlusselemente-1-Paar::2946.html" target="_blank">Link</a>
+Profile joints (16+4) |	18,45€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schneidhuelse-fuer-Automatik-Verbinder-I-Typ-Nut-6-099GS061::4838.html" target="_blank">Link</a>
+T-shaped sliding blocks M3 (20x) |	4,82€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M3-096553::4227.html" target="_blank">Link</a>
+T-shaped sliding blocks M5 (20x) |	4,82€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M5-096555::4229.html" target="_blank">Link</a>
+Profile screws |	3,15€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schraube-Automatikverbinder-DIN-912-M5x35-N6-I-Typ::4839.html" target="_blank">Link</a>
+shipping |	11,90€ |	
+Total:  84,75€    
 <p>&nbsp;</p>
 
 
