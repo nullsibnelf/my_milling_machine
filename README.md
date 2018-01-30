@@ -1,8 +1,8 @@
-# my_milling_machine
+﻿# my_milling_machine
 open source hardware - PCB-milling and engraving machine
 
 
-<img src="logo.png">
+<img src="my_milling_machine.png">
 
 
 Goal:
@@ -14,8 +14,8 @@ Goal:
 
 
 Features:
-- Size 300 x 280 x 260 mm
-- working volume 160 x 80 x 40 mm
+- Size 310 x 260 x 280 mm
+- working volume 170 x 95 x 35 mm
 - standard 1/8" tool fitting
 - Arduino based
 - connection via USB and Bluetooth
