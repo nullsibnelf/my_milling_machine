@@ -1,7 +1,8 @@
 all additional SW changes in GRBL after "ESC-patch".
 
 cpu_map.h:    
-![1](code_change_cpu_map_Stepper_EN.png)    
+![1](code_change_cpu_map_Stepper_EN.png)      
+![1](code_change_cpu_map_Stepper_pins.png)      
 
 
 main.h:    
