@@ -1,5 +1,6 @@
 Failure:    
-ESC from dustabsorber from 80% max revolution to zero via commandline (M3, delay, M5).    
+ESC from dustabsorber from 80% max revolution to zero via commandline (M3, delay, M5). 
+Arduino supplied via Vin-Pin from CNC-Shield (12V)    
 <br>
 
 
