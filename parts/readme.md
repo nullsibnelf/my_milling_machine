@@ -36,10 +36,10 @@ Machine table 6mm Alu (200x120) |	6,56€ |	<a href="http://www.motedis.com/shop
 Spindle mounting plate 6mm Alu (80x64) |	1,39€ |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
 Energy chain links (12x) |	4,86€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-einzelne-Glieder::2948.html" target="_blank">Link</a>
 Energy chain tail (2x) |	2,69€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-Anschlusselemente-1-Paar::2946.html" target="_blank">Link</a>
-Profile joints (16+4) |	18,45€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schneidhuelse-fuer-Automatik-Verbinder-I-Typ-Nut-6-099GS061::4838.html" target="_blank">Link</a>
-T-shaped sliding blocks M3 (20x) |	4,82€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M3-096553::4227.html" target="_blank">Link</a>
-T-shaped sliding blocks M5 (20x) |	4,82€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M5-096555::4229.html" target="_blank">Link</a>
-Profile screws |	3,15€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schraube-Automatikverbinder-DIN-912-M5x35-N6-I-Typ::4839.html" target="_blank">Link</a>
+Profile joints (16+4) |	18,45€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schneidhuelse-fuer-Automatik-Verbinder-I-Typ-Nut-6-099GS061::4838.html" target="_blank">Link</a> | !!! WRONG !!!
+T-shaped sliding blocks M3 (20x) |	4,82€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M3-096553::4227.html" target="_blank">Link</a> | !!! WRONG !!!
+T-shaped sliding blocks M5 (20x) |	4,82€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Nutenstein-mit-Steg-I-Typ-Nut-6-M5-096555::4229.html" target="_blank">Link</a> | !!! WRONG !!!
+Profile screws |	3,15€ |	<a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-30-I-Typ-Nut-6/Schraube-Automatikverbinder-DIN-912-M5x35-N6-I-Typ::4839.html" target="_blank">Link</a> | !!! WRONG !!!
 shipping |	11,90€ |	
 Total:  84,75€    
 <p>&nbsp;</p>
