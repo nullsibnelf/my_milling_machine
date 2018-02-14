@@ -28,8 +28,8 @@ Reset / emergency-Stop switch | tbd | n/a |
 
 **Frame parts:**
 
-Part | Price | Link 
---- | --- | --- 
+Part | Price | Link | Comment
+--- | --- | --- | ---
 Profile 20x40 B-Typ Nut 6 | 10,89€ |	<a href="http://www.motedis.com/shop/Nutprofil/20-B-Typ-Nut-6/Aluprofil-20x40-B-Typ-Nut-6::158.html" target="_blank">Link</a>
 Precision guide bar 8mm Alu (6x + rest) | 15,23€ |	<a href="http://www.motedis.com/shop/Dynamik-Lineareinheiten/Praezisionswellen/Alu-Praezisionswellen-Zuschnitt/Praezisionswelle-Aluminium-%D88mm::3501.html" target="_blank">Link</a>
 Machine table 6mm Alu (200x120) |	6,56€ |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
