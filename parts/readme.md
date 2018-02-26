@@ -23,6 +23,7 @@ wiring cables | tbd | n/a |
 PE cables | tbd | n/a |
 CNC-shield for Arduino | self made | tbd | under redesign
 Reset / emergency-Stop switch | tbd | n/a |
+ | 161,07 € | |
 <p>&nbsp;</p>
 
 
@@ -30,16 +31,17 @@ Reset / emergency-Stop switch | tbd | n/a |
 
 Part | Price | Link | Comment
 --- | --- | --- | ---
-Profile 20x40 B-Typ Nut 6 | 10,89€ |	<a href="http://www.motedis.com/shop/Nutprofil/20-B-Typ-Nut-6/Aluprofil-20x40-B-Typ-Nut-6::158.html" target="_blank">Link</a>
-Precision guide bar 8mm Alu (6x + rest) | 15,23€ |	<a href="http://www.motedis.com/shop/Dynamik-Lineareinheiten/Praezisionswellen/Alu-Praezisionswellen-Zuschnitt/Praezisionswelle-Aluminium-%D88mm::3501.html" target="_blank">Link</a>
-Machine table 6mm Alu (200x120) |	6,56€ |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
-Spindle mounting plate 6mm Alu (80x64) |	1,39€ |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
-Energy chain links (12x) |	4,86€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-einzelne-Glieder::2948.html" target="_blank">Link</a>
-Energy chain tail (2x) |	2,69€ |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-Anschlusselemente-1-Paar::2946.html" target="_blank">Link</a>
-Profile Nut M3 (30x) |  	6,72€ | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Hammermutter-B-Typ-Nut-6-M3::4752.html" target="_blank">Link</a>
-Profile Joint (14x) | 		12,79€ | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Innenwinkel-Stahl-20-B-Typ-Nut-6-099I90R06::565.html" target="_blank">Link</a>
-shipping |	11,90€ |	
-Total:  84,75€    
+Profile 20x40 B-Typ Nut 6 | 10,89 € |	<a href="http://www.motedis.com/shop/Nutprofil/20-B-Typ-Nut-6/Aluprofil-20x40-B-Typ-Nut-6::158.html" target="_blank">Link</a>
+Precision guide bar 8mm Alu (6x + rest) | 15,23 € |	<a href="http://www.motedis.com/shop/Dynamik-Lineareinheiten/Praezisionswellen/Alu-Praezisionswellen-Zuschnitt/Praezisionswelle-Aluminium-%D88mm::3501.html" target="_blank">Link</a>
+Machine table 6mm Alu (200x120) |	6,56 € |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
+Spindle mounting plate 6mm Alu (80x64) |	1,39 € |	<a href="http://www.motedis.com/shop/Halbzeuge/Aluminium-Plaettchen/Aluminium-Plaettchen-beidseitig-feinstgefraest-und-foliert-Plaettchen-Zuschnitt/Plaettchen-Zuschnitt/Aluminium-Plaettchen-feinstgefraest-foliert-6mm-dick::2576.html" target="_blank">Link</a>
+Energy chain links (12x) |	4,86 € |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-einzelne-Glieder::2948.html" target="_blank">Link</a>
+Energy chain tail (2x) |	2,69 € |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-Anschlusselemente-1-Paar::2946.html" target="_blank">Link</a>
+Profile Nut M3 (30x) |  	6,72 € | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Hammermutter-B-Typ-Nut-6-M3::4752.html" target="_blank">Link</a>
+Profile Joint (14x) | 		12,79 € | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Innenwinkel-Stahl-20-B-Typ-Nut-6-099I90R06::565.html" target="_blank">Link</a>
+shipping |	11,90 € |
+|	73,03 € |	
+ 
 <p>&nbsp;</p>
 
 
