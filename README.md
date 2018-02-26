@@ -32,4 +32,4 @@ Further Development:
 
 <p>&nbsp;</p>
 
-2018/01/28: Total costs by now -> ~270€
+2018/02/26: Total costs by now -> ~235€ plus 3D-printed parts
