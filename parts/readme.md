@@ -23,7 +23,7 @@ wiring cables | tbd | n/a |
 PE cables | tbd | n/a |
 CNC-shield for Arduino | self made | tbd | under redesign
 Reset / emergency-Stop switch | tbd | n/a |
- | 161,07 € | |
+&nbsp; | 161,07 € | |
 <p>&nbsp;</p>
 
 
@@ -40,7 +40,7 @@ Energy chain tail (2x) |	2,69 € |	<a href="http://www.motedis.com/shop/Energie
 Profile Nut M3 (30x) |  	6,72 € | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Hammermutter-B-Typ-Nut-6-M3::4752.html" target="_blank">Link</a>
 Profile Joint (14x) | 		12,79 € | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Innenwinkel-Stahl-20-B-Typ-Nut-6-099I90R06::565.html" target="_blank">Link</a>
 shipping |	11,90 € |
-|	73,03 € |	
+&nbsp; |	73,03 € |	
  
 <p>&nbsp;</p>
 
