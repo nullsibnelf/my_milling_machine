@@ -28,7 +28,7 @@ Further Development:
 - Tool referencing
 - interchangeable toolhead for mounting a laser module too
 - camera for optical calibration
-- dust extraction ([1](https://github.com/nullsibnelf/cyclone_dust_absorber)
+- dust extraction [Link](https://github.com/nullsibnelf/cyclone_dust_absorber)
 - emergency shutdown
 
 <p>&nbsp;</p>
