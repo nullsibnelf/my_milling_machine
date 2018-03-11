@@ -15,19 +15,20 @@ Goal:
 
 Features:
 - Size 310 x 260 x 280 mm
-- working volume 170 x 95 x 35 mm
+- working volume 173 x 108 x 35 mm
 - standard 1/8" tool fitting
 - Arduino based
-- connection via USB and Bluetooth
+- connection via USB or Bluetooth
+- auto-homing
 
 <p>&nbsp;</p>
 
 
 Further Development:
-- auto-homing / referencing
+- Tool referencing
 - interchangeable toolhead for mounting a laser module too
 - camera for optical calibration
-- dust extraction
+- dust extraction ([1](https://github.com/nullsibnelf/cyclone_dust_absorber)
 - emergency shutdown
 
 <p>&nbsp;</p>
