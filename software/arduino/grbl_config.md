@@ -1,5 +1,5 @@
 Setting | Value | Beschreibung
---- | --- 
+--- | --- | --- 
 $0   | 10 | 
 $1   | 25 | 
 $2   | 0 | 
