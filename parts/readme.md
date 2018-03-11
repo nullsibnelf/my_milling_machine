@@ -21,8 +21,8 @@ End switch (3x) | 0,59 € | <a href="https://www.amazon.de/gp/product/B00U8MPFL
 Supply cable 230V (or equivalent) | tbd | n/a |
 wiring cables | tbd | n/a |
 PE cables | tbd | n/a |
-CNC-shield for Arduino | self made | tbd | under redesign
-Coolingfan for step-drivers on CNC-shield | tbd | n/a | under redesign
+CNC-shield for Arduino | self made | [Link](https://github.com/nullsibnelf/my_milling_machine/tree/master/parts/arduino_shield) | under redesign
+Coolingfan for step-drivers on CNC-shield | tbd | n/a |
 Reset / emergency-Stop switch | tbd | n/a |
 &nbsp; | 161,07 € | |
 <p>&nbsp;</p>
