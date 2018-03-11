@@ -39,9 +39,9 @@ Spindle mounting plate 6mm Alu (80x64) |	1,39 € |	<a href="http://www.motedis.
 Energy chain links (12x) |	4,86 € |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-einzelne-Glieder::2948.html" target="_blank">Link</a>
 Energy chain tail (2x) |	2,69 € |	<a href="http://www.motedis.com/shop/Energiekette/Energiekette/Energiekette-CK15/Energiekette-CK-15-Breite-15mm-Anschlusselemente-1-Paar::2946.html" target="_blank">Link</a>
 Profile Nut M3 (30x) |  	6,72 € | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Hammermutter-B-Typ-Nut-6-M3::4752.html" target="_blank">Link</a>
-Profile Joint (14x) | 		12,79 € | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Innenwinkel-Stahl-20-B-Typ-Nut-6-099I90R06::565.html" target="_blank">Link</a>
+Profile Joint (16x) | 		14,63 € | <a href="http://www.motedis.com/shop/Nutprofil-Zubehoer/Zubehoer-20-B-Typ-Nut-6/Innenwinkel-Stahl-20-B-Typ-Nut-6-099I90R06::565.html" target="_blank">Link</a>
 shipping |	11,90 € |
-&nbsp; |	73,03 € |	
+&nbsp; |	74,87 € |	
  
 <p>&nbsp;</p>
 
