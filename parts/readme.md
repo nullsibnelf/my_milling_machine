@@ -22,6 +22,7 @@ Supply cable 230V (or equivalent) | tbd | n/a |
 wiring cables | tbd | n/a |
 PE cables | tbd | n/a |
 CNC-shield for Arduino | self made | tbd | under redesign
+Coolingfan for step-drivers on CNC-shield | tbd | n/a | under redesign
 Reset / emergency-Stop switch | tbd | n/a |
 &nbsp; | 161,07 € | |
 <p>&nbsp;</p>
